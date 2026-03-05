@@ -1,1 +1,35 @@
-sss
+[
+  "---": {
+    "ru": "---",
+    "en": "---",
+    "de": "---",
+    "fr": "---",
+    "it": "---",
+    "es": "---",
+    "cn": "---",
+    "jp": "---",
+    "kk": "---"
+  },
+  "view_rate": {
+    "ru": "Посмотреть тарифы",
+    "en": "View Rate",
+    "de": "Preise anzeigen",
+    "fr": "Voir les tarifs",
+    "it": "Vedi Tariffe",
+    "es": "Ver tarifas",
+    "cn": "查看价格",
+    "jp": "料金を見る",
+    "kk": "요금 보기"
+  },
+  "download_pdf_brochure": {
+    "ru": "Скачать PDF-брошюру",
+    "en": "Download PDF Brochure",
+    "de": "Preise ansehen",
+    "fr": "Télécharger la brochure PDF",
+    "it": "Scarica la brochure in PDF",
+    "es": "Descargar folleto PDF",
+    "cn": "下载PDF宣传册",
+    "jp": "PDFパンフレットをダウンロード",
+    "kk": "PDF 브로셔 다운로드"
+  }
+]
